@@ -32,7 +32,7 @@ This module contains the following classes:
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
-import numpy
+# import numpy
 
 from aeneas.audiofile import AudioFile
 from aeneas.exacttiming import TimeInterval
